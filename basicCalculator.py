@@ -1,4 +1,7 @@
-num1 = input("First number: ")
-num2 = input("Second number: ")
+# take input
+num1 = float(input("First number: "))
+num2 = float(input("Second number: "))
 
-print(float(num1) + float(num2))
+# add numbers together and output the sum
+print(num1 + num2)
+
